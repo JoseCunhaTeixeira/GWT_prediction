@@ -1,4 +1,4 @@
-![Ajouter des lignes dans le corps du texte (1)](https://github.com/user-attachments/assets/2282d436-8913-48b0-8fec-3a8f7423e9aa)
+![GWT level inference](https://github.com/user-attachments/assets/3772a1d7-921c-4e2d-a548-dbe7440b5ffd)
 
 This project is part of my PhD developments at SNCF Réseau, Sorbonne University and Mines Paris - PSL.
 
