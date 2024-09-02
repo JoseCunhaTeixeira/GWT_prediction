@@ -1,3 +1,5 @@
+![Design sans titre (2)](https://github.com/user-attachments/assets/9e111efa-5786-4b47-9f00-76fc2f8d3f38)
+
 This project is part of my PhD developments at SNCF Réseau, Sorbonne University and Mines Paris - PSL.
 
 It consists in predictiong the groundwater table level from a dispersion curve using a Multilayer Perceptropn trained with real data.
