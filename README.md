@@ -2,8 +2,8 @@
 
 This project is part of my PhD developments at SNCF Réseau, Sorbonne University and Mines Paris - PSL.
 
-It consists in predictiong the groundwater table level from a dispersion curve using a Multilayer Perceptropn trained with real data.
-Daily 2D maps are then constructed across the seislic array.
+It consists in predicting groundwater table level maps from dispersion curves using a Multilayer Perceptropn trained with real data.
+Daily 2D maps extrapolated across a seismic array using an unique piezometric data point.
 
 ![Figure5](https://github.com/JoseCunhaTeixeira/MLP_GWT_prediction/assets/148117375/9680214f-6188-4328-a106-f9a48f338828)
 
