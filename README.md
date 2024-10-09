@@ -1,4 +1,4 @@
-![GWT level inference](https://github.com/user-attachments/assets/3772a1d7-921c-4e2d-a548-dbe7440b5ffd)
+![Git_GWT](https://github.com/user-attachments/assets/dd1d1585-c8b8-4aeb-b335-6cef6937144d)
 
 This project is part of my PhD developments at SNCF Réseau, Sorbonne University and Mines Paris - PSL.
 
