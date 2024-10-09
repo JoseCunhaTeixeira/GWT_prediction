@@ -1,4 +1,4 @@
-![Git_GWT](https://github.com/user-attachments/assets/dd1d1585-c8b8-4aeb-b335-6cef6937144d)
+![Git_GWT](https://github.com/user-attachments/assets/6395b8d9-c7f4-4572-9cff-431bbd5d474e)
 
 This project is part of my PhD developments at SNCF Réseau, Sorbonne University and Mines Paris - PSL.
 
